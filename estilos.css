@@ -1,0 +1,42 @@
+body {
+    background-color: #f784e4e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+}
+
+*{
+    font-family: "Jaro", sans-serif;
+}
+
+h2 {
+
+}
+p {
+    color: rgba(252, 252, 252);
+}
+img {
+    width: 600px;
+    height: 500px;
+}
+h1{
+    color: rgb(255, 255, 255)
+}
+
+table {
+   border-collapse: collapse;
+}
+
+th { 
+    background-color: blueviolet;
+}
+
+th,
+td {
+    border: 1px solid blue;
+    text-align: left;
+    padding: 8px;
+}
